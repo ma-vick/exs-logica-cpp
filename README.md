@@ -1,9 +1,11 @@
 # Exercícios de lógica de programação com C++
 
 - [ex001](https://github.com/ma-vick/exs-logica-cpp/blob/main/ex001.cpp)
+
     *faça um programa que verifique (usando if e else) se uma letra digitada é vogal ou consoante.*
 
 - [ex002](https://github.com/ma-vick/exs-logica-cpp/blob/main/ex002.cpp)
+
     *faça um programa para a leitura de duas notas parciais de um aluno.*
     
         - a mensagem "aprovado", se a média alcançada for maior ou igual a sete;
@@ -11,21 +13,27 @@
         - a mensagem "reprovado", se a média for menor do que sete;
 
 - [ex003](https://github.com/ma-vick/exs-logica-cpp/blob/main/ex003.cpp)
+
     *faça um programa que peça três números diferentes e imprima o maior deles.*
 
 - [ex004](https://github.com/ma-vick/exs-logica-cpp/blob/main/ex004.cpp)
+
     *faça um programa que peça três números diferentes e imprima o maior e o menor deles.*
 
 - [ex005](https://github.com/ma-vick/exs-logica-cpp/blob/main/ex005.cpp)
+
     *faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre o mais barato.*
 
 - [ex006](https://github.com/ma-vick/exs-logica-cpp/blob/main/ex006.cpp)
+
     *faça um programa que leia três números e mostre-os em ordem decrescente.*
 
 - [ex007](https://github.com/ma-vick/exs-logica-cpp/blob/main/ex007.cpp)
+
     *faça um programa que pergunte em que turno você estuda. Peça para digitar M - matutino, V - vespertino ou N - noturno. Imprima a mensagem "Bom dia!", "Boa tarde!", "Boa noite!" ou "Valor inválido", conforme o caso.*
 
 - [ex008](https://github.com/ma-vick/exs-logica-cpp/blob/main/ex008.cpp)
+
     *As organizações CSM resolveram dar um aumento de salário aos seus colaboradores e lhe contrataram para desenvolver o programa que calculará os reajustes.*
 
         - a. Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual;
@@ -42,6 +50,7 @@
         - d. o novo salário, após o aumento.
 
 - [ex009](https://github.com/ma-vick/exs-logica-cpp/blob/main/ex009.cpp)
+
     *faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do imposto de renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do salário bruto, mas não é descontado (é a empresa quem deposita).*
     *o salário líquido corresponde ao salário bruto menos os descontos.* 
     **O programa deverá pedir ao usuário o valor da sua hora e a quantia de horas trabalhadas no mês.**
@@ -62,9 +71,11 @@
         Salário líquido: R$ 935,00
 
 - [ex010](https://github.com/ma-vick/exs-logica-cpp/blob/main/ex010.cpp)
+
     *faça um programa que leia um número e imprima o dia da semana correspondente. (1 - domingo; 2 - segunda-feira; 3 - terça-feira; 4 - quarta-feira; 5 - quinta-feira; 6 - sexta-feira; 7 - sábado). Se for inserido qualquer outro valor deverá imprimir "valor inválido".*
 
 - [ex011](https://github.com/ma-vick/exs-logica-cpp/blob/main/ex011.cpp)
+
     *faça um programa que peça os três lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno. dicas:*
 
         - três lados formam um triângulo quando a soma de quaisquer dos dois lados é maior que o terceiro;
