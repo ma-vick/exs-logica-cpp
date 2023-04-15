@@ -5,7 +5,7 @@
 int main(){
 	setlocale(LC_ALL, "portuguese");
 	
-	float n1, n2,media;
+	float n1, n2, media;
 	
 	printf("Digite sua primeira e segunda nota: ");
 	scanf("%f %f", &n1, &n2);
