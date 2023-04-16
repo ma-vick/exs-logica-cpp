@@ -83,7 +83,7 @@
         - triângulo isósceles: quaisquer dois lados iguais;
         - triângulo escaleno: três lados diferentes;
 
-- ex012
+- [ex012](https://github.com/ma-vick/exs-logica-cpp/blob/main/ex012.cpp)
 
     *faça um programa que calcule as raízes de uma equação do segundo grau, na forma ax2 + bx + c. O programa deverá pedir os valores de a, b e c e fazer as consistências, informando ao usuário nas seguintes situações:*
 
